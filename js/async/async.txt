@@ -1,0 +1,12 @@
+javasacript
+    |--->Synchronous
+    |--->single threaded
+
+excection context
+    |-->excute one line of a code at a time
+
+
+blocking code --->block the flow of program-->read file Synch
+
+Non blocking code--->does not block execcution-->read file asyn
+

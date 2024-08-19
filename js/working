@@ -1,0 +1,22 @@
+javascript execution context
+
+1-->global ec-->kept in variable-->this 
+
+js works on single threaded
+
+2-->Function ec
+
+3-->eval ec -->similar to global 
+
+code
+  |
+1.memory execution phase --> only memory allocation for assigned variables 
+
+2.execution phase-->
+
+
+-----------*******-----------
+
+
+
+
